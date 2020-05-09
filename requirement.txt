@@ -1,0 +1,7 @@
+mysql==0.0.2
+mysqlclient==1.4.6
+peewee==3.13.3
+PyQt5==5.14.2
+PyQt5-sip==12.7.2
+xlrd==1.2.0
+XlsxWriter==1.2.8

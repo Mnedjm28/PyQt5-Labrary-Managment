@@ -1,0 +1,38 @@
+<!DOCTYPE RCC><RCC version='1.0'>
+<qresource>
+<file>photos/reading.png</file>
+<file>photos/analysis.png</file>
+<file>photos/add-user.png</file>
+<file>photos/books.png</file>
+<file>photos/delete.png</file>
+<file>photos/dashboard.png</file>
+<file>photos/login.png</file>
+<file>photos/close.png</file>
+<file>photos/logout (1).png</file>
+<file>photos/user.png</file>
+<file>photos/edit.png</file>
+<file>photos/warning.png</file>
+<file>photos/history.png</file>
+<file>photos/down_arrow.png</file>
+<file>photos/handle.png</file>
+<file>photos/checkbox.png</file>
+<file>photos/newspaper.png</file>
+<file>photos/searchbook.png</file>
+<file>photos/settings.png</file>
+<file>photos/add (1).png</file>
+<file>photos/loupe.png</file>
+<file>photos/save-file.png</file>
+<file>photos/value.png</file>
+<file>photos/eye.png</file>
+<file>photos/user (1).png</file>
+<file>photos/permission.png</file>
+<file>photos/mail.png</file>
+<file>photos/book (2).png</file>
+<file>photos/calendar.png</file>
+<file>photos/employee.png</file>
+<file>photos/study.png</file>
+<file>photos/employee (1).png</file>
+<file>photos/link-symbol (1).png</file>
+
+</qresource>
+</RCC>
